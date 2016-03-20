@@ -1,0 +1,8 @@
+Firstly install GLFW on your system
+
+
+On linux run this program by using
+
+make sample2D
+./sample2D	
+
